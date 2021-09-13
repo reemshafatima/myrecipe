@@ -1,0 +1,13 @@
+breads,
+tomato,
+onion,
+avocado,
+mushroom,
+peppers,
+spinach,
+cheese,
+egg,
+tuna,
+mayonnaise,
+mustard,
+herbs

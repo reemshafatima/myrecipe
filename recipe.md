@@ -1,0 +1,1 @@
+porcess:- the first step is to toast the bread spread some mayo on it than add the vegetables on the bread put some mustard on the other slices of the bread toast it again than enjoy it. 
